@@ -1,7 +1,9 @@
 # hello-universe
-Taking Marketing Technology to the Next Level With Githib
 
-Hello Universe
+Hello Universe,
+
+I would like you to know I am taking digital marketing to the next level With Githib.
+
 
 I am a fearless marketing professional with a passion for innovation. 
 You know, the person with the "is she cray?",pith decks and unorthadoxed
